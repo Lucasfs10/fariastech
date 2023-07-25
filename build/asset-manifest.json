@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2843170e.css",
+    "main.js": "/static/js/main.e5f62fe5.js",
+    "static/media/Captura de tela 2023-07-24 191759.png": "/static/media/Captura de tela 2023-07-24 191759.685bbfa495fa5a30604d.png",
+    "static/media/logoBaner-removebg-preview.png": "/static/media/logoBaner-removebg-preview.5191c5518d91887ddb7a.png",
+    "static/media/Captura_de_tela_2023-07-24_185412-removebg-preview.png": "/static/media/Captura_de_tela_2023-07-24_185412-removebg-preview.0bdfe2de39a99cca5713.png",
+    "index.html": "/index.html",
+    "main.2843170e.css.map": "/static/css/main.2843170e.css.map",
+    "main.e5f62fe5.js.map": "/static/js/main.e5f62fe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2843170e.css",
+    "static/js/main.e5f62fe5.js"
+  ]
+}

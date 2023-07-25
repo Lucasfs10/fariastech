@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.feature--description {
+    margin-top: 15px;
+    font-size: 15px;
+    color: #999;
+    max-width: 30%;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 30px;
+}
+
+.feature {
+    display: flex;
+    flex-direction:row;
+    margin-bottom: 50px;
+}

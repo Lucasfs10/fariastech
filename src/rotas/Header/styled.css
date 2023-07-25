@@ -1,0 +1,47 @@
+header {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    background-color: #1E2A44;
+    box-shadow: 0 0 5px 3px;
+    justify-content: space-between;
+    /* z-index: 999; */
+    /* top: 0px;
+    right: 0px;
+    align-items: center;
+    justify-content: space-between; */
+    /* padding: 0 30px; */
+    /* transition: all ease 0.5s; */
+}
+
+.header__logo {
+    height: 25px;
+}
+
+.header__logo img {
+    height: 100px;
+}
+
+.header__logo svg {
+    height: 100px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.header__user {
+    margin-top: 40px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: baseline;
+    width: 20%;
+}
+
+.header__user a {
+    text-decoration: none;
+    color: #FFF;
+    margin-right: 7px;
+}
+
+.header__user a:hover{
+    text-decoration: #FFF;
+}
